@@ -17,7 +17,7 @@ const lobster = Lobster_Two({
 });
 
 export const metadata = {
-  title: "e-commerce",
+  title: "Guitar",
   description: "An e-commerce site built with Next.js and Tailwind CSS",
 };
 
