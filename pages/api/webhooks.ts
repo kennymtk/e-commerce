@@ -53,4 +53,5 @@ export default async function handler(
     default:
       console.log(`Unhandled event type ${event.type}`);
   }
+  res.json({ received: true });
 }
